@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Python For beginners",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre": "Programming",
+    "read_status: false,
+    "added_data": "2025-6-3 11:33:22",
+  },
+  { 
+    "title": "Automated Python",
+    "author": "Eman Ali",
+    "publication_year": 2020,
+    "genre": "coding programmer",
+    "read_status: true,
+    "added_data": "2025-9-27 11:33:72",
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Aisha Aly",
+    "publication_year": 2018,
+    "genre": "Programming language",
+    "read_status: true,
+    "added_data": "2025-3-11 11:55:80",
+  },
+  {
+    "title": "Effective Python",
+    "author": "Zamar Shah",
+    "publication_year": 2019,
+    "genre": "Programming",
+    "read_status: true,
+    "added_data": "2024-5-10 11:33:32",
+  },
+  
+  
+]
+
+    
+    
+    
